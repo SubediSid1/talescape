@@ -1,0 +1,44 @@
+{
+  "story_id": "story1",
+  "scene_id": "scene1",
+  "background": "https://example.com/forest.png",
+  "chapters": [
+    {
+      "chapter_id": "ch1",
+      "text": "You wake up in a dense forest, the sound of birds chirping faintly in the distance.",
+      "character": {
+        "name": "Narrator",
+        "image": null
+      },
+      "animation": "fade_in_text"
+    },
+    {
+      "chapter_id": "ch2",
+      "text": "A shadowy figure approaches. 'Who are you?' they ask.",
+      "character": {
+        "name": "Stranger",
+        "image": "https://example.com/stranger.png"
+      },
+      "animation": "slide_in_character"
+    },
+    {
+      "chapter_id": "ch3",
+      "text": "'I... I don’t know,' you reply, confused.",
+      "character": {
+        "name": "You",
+        "image": "https://example.com/player.png"
+      },
+      "animation": "bubble_pop"
+    }
+  ],
+  "choices": [
+    {
+      "text": "Ask about the forest",
+      "next_scene": "scene2"
+    },
+    {
+      "text": "Run away",
+      "next_scene": "scene3"
+    }
+  ]
+}
