@@ -4,7 +4,7 @@
     "title": "The Lost Kingdom",
     "cover_image": "https://opengameart.org/sites/default/files/styles/medium/public/fancy-fighter.png",
     "total_scenes": 25,
-    "locked": true,
+    "locked": false,
     "description": "A young hero uncovers a hidden realm.",
     "subscription_required": false
   }
