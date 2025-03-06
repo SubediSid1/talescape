@@ -1,0 +1,11 @@
+[
+  {
+    "id": "story1",
+    "title": "The Lost Kingdom",
+    "cover_image": "https://example.com/cover1.png",
+    "total_scenes": 25,
+    "locked": true,
+    "description": "A young hero uncovers a hidden realm.",
+    "subscription_required": false
+  }
+]
