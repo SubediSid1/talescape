@@ -1,7 +1,7 @@
 {
   "story_id": "story1",
   "scene_id": "scene1",
-  "background": "https://example.com/forest.png",
+  "background": "https://img.freepik.com/free-vector/cartoon-forest-landscape-endless-nature-background-computer-games-nature-tree-outdoor-plant-green-natural-environment-wood_1284-41524.jpg?t=st=1741280557~exp=1741284157~hmac=1c5c2289fe2afc4d1b8ef19bcee47836c05b578aa41994b8c212928aca205a3d&w=2000",
   "chapters": [
     {
       "chapter_id": "ch1",
@@ -17,7 +17,7 @@
       "text": "A shadowy figure approaches. 'Who are you?' they ask.",
       "character": {
         "name": "Stranger",
-        "image": "https://example.com/stranger.png"
+        "image": "https://img.freepik.com/free-vector/dancing-zombie_1308-35509.jpg?t=st=1741280758~exp=1741284358~hmac=44e50c5e36dc38b7ed28cdbe7270d015c1452b308f15d1a5eed997bd62e8cc45&w=1380"
       },
       "animation": "slide_in_character"
     },
@@ -26,7 +26,7 @@
       "text": "'I... I don’t know,' you reply, confused.",
       "character": {
         "name": "You",
-        "image": "https://example.com/player.png"
+        "image": "https://img.freepik.com/free-vector/character-playing-videogame_23-2148518505.jpg?t=st=1741280709~exp=1741284309~hmac=93b23f0e286c0871399e5d7ea03b7ff847e1d637125e72dda8abf3c4e5b21f99&w=1480"
       },
       "animation": "bubble_pop"
     }
