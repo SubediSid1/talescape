@@ -1,0 +1,23 @@
+{
+  "story_id": "story1",
+  "scene_id": "scene2",
+  "background": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e",
+  "chapters": [
+    {
+      "chapter_id": "ch1",
+      "text": "'This is the edge of the Lost Kingdom,' the stranger says.",
+      "character": { "name": "Stranger", "image": "https://opengameart.org/sites/default/files/rogue.png" },
+      "animation": "bubble_pop"
+    },
+    {
+      "chapter_id": "ch2",
+      "text": "He points to a faint path. 'Follow it, if you dare.'",
+      "character": { "name": "Stranger", "image": "https://opengameart.org/sites/default/files/rogue.png" },
+      "animation": "fade_in_text"
+    }
+  ],
+  "choices": [
+    { "text": "Follow the path", "next_scene": "scene4" },
+    { "text": "Stay and question him", "next_scene": "scene5" }
+  ]
+}
