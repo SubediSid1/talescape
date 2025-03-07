@@ -2,10 +2,25 @@
   {
     "id": "story1",
     "title": "The Lost Kingdom",
-    "cover_image": "https://opengameart.org/sites/default/files/styles/medium/public/fancy-fighter.png",
-    "total_scenes": 30,
+    "cover_image": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
+    "total_scenes": 10,
     "locked": false,
-    "description": "A young hero uncovers a hidden realm.",
-    "subscription_required": false
+    "description": "A hero uncovers a hidden realm."
+  },
+  {
+    "id": "story2",
+    "title": "Echoes of Time",
+    "cover_image": "https://images.unsplash.com/photo-1534796636916-0b8b8d33b38b",
+    "total_scenes": 11,
+    "locked": true,
+    "description": "A time traveler fixes a broken past."
+  },
+  {
+    "id": "story3",
+    "title": "Shadow’s Curse",
+    "cover_image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23",
+    "total_scenes": 12,
+    "locked": true,
+    "description": "A cursed warrior seeks redemption."
   }
 ]
