@@ -267,20 +267,21 @@
     {
       "chapter_id": "ch30",
       "text": "'This is the heart of the forest,' the stranger says, their voice soft but intense. 'It holds the key to your journey. But you must choose. Take the artifact and claim your fate, or leave it and walk away forever.' You stand there, staring at the object. Your heart races as you realize this moment will define everything.",
-      "choices": [
-        {
-          "choice_id": "choice1",
-          "text": "Take the artifact and claim your fate.",
-          "next_chapter": "ch31",
-          "outcome": "You reach forward, your fingers trembling as you grasp the artifact. As soon as you touch it, a surge of energy floods your body. The forest seems to react, its pulse matching your own. Your destiny is now intertwined with the forest’s, and you have chosen your path."
-        },
-        {
-          "choice_id": "choice2",
-          "text": "Leave the artifact and walk away forever.",
-          "next_chapter": "ch32",
-          "outcome": "You turn your back on the artifact, stepping away from the altar. The forest seems to sigh in disappointment, but you don’t look back. As you leave, the weight of the forest’s secrets stays behind, a burden you won’t carry, but one that will linger in your mind forever."
-        }
-      ]
+      "character": {
+        "name": "You",
+        "image": "https://img.freepik.com/free-vector/character-playing-videogame_23-2148518505.jpg?t=st=1741280709~exp=1741284309~hmac=93b23f0e286c0871399e5d7ea03b7ff847e1d637125e72dda8abf3c4e5b21f99&w=1480"
+      },
+      "animation": "bubble_pop"
+    }
+  ],
+  "choices": [
+    {
+      "text": "Take the artifact and claim your fate.",
+      "next_scene": "scene2"
+    },
+    {
+      "text": "Leave the artifact and walk away forever.",
+      "next_scene": "scene3"
     }
   ]
 }
