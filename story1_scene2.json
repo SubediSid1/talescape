@@ -17,7 +17,7 @@
     }
   ],
   "choices": [
-    { "text": "Follow the path", "next_scene": "scene4" },
+    { "text": "Go Back To Forest", "next_scene": "scene1" },
     { "text": "Stay and question him", "next_scene": "scene5" }
   ]
 }
