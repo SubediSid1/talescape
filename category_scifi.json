@@ -5,7 +5,8 @@
     "cover_image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa",
     "total_scenes": 3,
     "description": "An interstellar adventure across uncharted galaxies.",
-    "category": "Sci Fi"
+    "category": "Sci Fi",
+    "category_id": "scifi",
   },
   {
     "id": "the-aether-wars",
@@ -13,6 +14,7 @@
     "cover_image": "https://images.unsplash.com/photo-1464802686167-b939a6910659",
     "total_scenes": 5,
     "description": "A thrilling battle for control in the cosmos.",
-    "category": "Sci-Fi"
+    "category": "Sci-Fi",
+    "category_id": "scifi",
   }
 ]
