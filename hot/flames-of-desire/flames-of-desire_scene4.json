@@ -307,7 +307,7 @@
   "choices": [
     {
       "text": "End the night with a promise of more",
-      "next_scene": null,
+      "next_scene": "end",
       "next_story": null
     }
   ]
