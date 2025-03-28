@@ -6,7 +6,7 @@
     "total_scenes": 3,
     "description": "An interstellar adventure across uncharted galaxies.",
     "category": "Sci Fi",
-    "category_id": "scifi",
+    "category_id": "scifi"
   },
   {
     "id": "the-aether-wars",
@@ -15,6 +15,6 @@
     "total_scenes": 5,
     "description": "A thrilling battle for control in the cosmos.",
     "category": "Sci-Fi",
-    "category_id": "scifi",
+    "category_id": "scifi"
   }
 ]
