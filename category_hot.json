@@ -5,6 +5,7 @@
     "cover_image": "https://images.unsplash.com/photo-1519741497674-611481863552",
     "total_scenes": 4,
     "description": "A night of simmering tension and playful sparks.",
-    "category": "Hot"
+    "category": "Hot",
+    "categoryId": "hot",
   }
 ]
