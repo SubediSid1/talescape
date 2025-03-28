@@ -1,6 +1,6 @@
 You are tasked with generating a JSON file for an interactive story in the format used by my app, using the `Scene`, `Chapter`, `Character`, and `Choice` models. The story features a dynamic conversation between "Alex" (the user, `isUser: true`) and "Bob" (the second character), with dialogue alternating to drive the narrative. Keep exchanges concise and natural, avoiding long monologues. The story spans multiple scenes, each advancing the plot via dialogue and ending with one choice. If the story involves mature themes (e.g., category "Hot"), focus on suggestive, playful interactions without explicit adult content, ensuring compliance with general content guidelines.
 
-**Instructions:**
+**Instructions**
 
 - **Task**: Generate JSON for one scene based on `scene_id`:
   - "scene1": Start fresh with metadata.
@@ -26,6 +26,7 @@ You are tasked with generating a JSON file for an interactive story in the forma
   - `total_scenes`: {total_scenes} (e.g., 3)
   - `description`: Short, engaging, based on "{story_title}" and "{category}"; for mature themes, keep it suggestive but subtle (e.g., "A night of playful intrigue.").
   - `category`: "{category}" (e.g., "Hot")
+  - `category_id`: "{category_id}" (e.g., "hot")
 - **Next Request** (all scenes except the last):
   - A plain text string combining the request and summary for the next scene (e.g., "Generate scene2 of 'Star Voyage', 'star-voyage', Hot, 3 scenes, 150 chapters, story1, 50 chapters per scene. Prior scene summary: 'In scene1, Alex and Bob began a flirty adventure.'").
 - **Output**:
@@ -37,7 +38,7 @@ You are tasked with generating a JSON file for an interactive story in the forma
 
 **Variables**:
 
-- `{story_title}`, `{story_id}`, `{category}`, `{total_scenes}`, `{total_chapters}` (story scope, e.g., 150), `{chapters_per_scene}`, `{prior_scene_summary}`
+- `{story_title}`, `{story_id}`, `{category}`, `{category_id}`, `{total_scenes}`, `{total_chapters}` (story scope, e.g., 150), `{chapters_per_scene}`, `{prior_scene_summary}`
 
 **Example Output**:
 // METADATA
@@ -47,7 +48,8 @@ You are tasked with generating a JSON file for an interactive story in the forma
 "cover_image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e",
 "total_scenes": 3,
 "description": "A steamy journey among the stars.",
-"category": "Hot"
+"category": "Hot",
+"category_id": "hot"
 }
 // SCENE
 {
@@ -73,5 +75,9 @@ You are tasked with generating a JSON file for an interactive story in the forma
 "choices": [{"text": "Flirt with Bob among the stars", "next_scene": "scene2"}]
 }
 
-For first scene:
-Generate scene1 of 'Flames of Desire', 'flames-of-desire', Hot, 4 scenes, 120 chapters, 30 chapters per scene.
+# Reminder for requests:
+
+# First scene: "Generate scene1 of '{story_title}', '{story_id}', {category}, {category_id}, {total_scenes} scenes, {total_chapters} chapters, {chapters_per_scene} chapters per scene."
+
+For the first scene:
+Generate scene1 of 'Star Voyage', 'star-voyage', Sci-Fi, scifi, 3 scenes, 90 chapters, 30 chapters per scene.
