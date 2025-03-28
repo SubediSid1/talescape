@@ -1,0 +1,214 @@
+{
+  "story_id": "the-aether-wars",
+  "scene_id": "scene5",
+  "background": "https://images.unsplash.com/photo-1538370965046-79c0d6907d47",
+  "chapters": [
+    {
+      "chapter_id": "ch81",
+      "text": "Alarms are blaring! Is this our shot, Bob?",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch82",
+      "text": "Yeah, fleet’s mobilizing—perfect cover. Let’s run!",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch83",
+      "text": "Guards are distracted. Which way to the ship?",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch84",
+      "text": "Hangar’s left—stick close, it’s getting wild.",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch85",
+      "text": "Explosions already? This is nuts!",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch86",
+      "text": "Enemy’s hitting hard. We’re almost at the hatch.",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch87",
+      "text": "Close call—debris everywhere. Ship’s in sight!",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch88",
+      "text": "Security’s down—unlocking now. Get inside!",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch89",
+      "text": "I’m in! Engines ready, or are we screwed?",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch90",
+      "text": "Primed and hot. Strap in—launching in ten!",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch91",
+      "text": "Ten seconds? Cutting it close, huh?",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch92",
+      "text": "Always do. Five… four… hang on tight!",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch93",
+      "text": "Here we go! Hope the hull holds up.",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch94",
+      "text": "We’re clear! Punching through the chaos now.",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch95",
+      "text": "That was insane! Where to next?",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch96",
+      "text": "Neutral space—gotta dodge both sides now.",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch97",
+      "text": "Both sides? This war’s bigger than I thought.",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch98",
+      "text": "Aether’s just the start. We’re in deep now.",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch99",
+      "text": "Guess we’re all in. Next adventure awaits?",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch100",
+      "text": "You bet. Setting course—let’s see what’s out there.",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    }
+  ],
+  "choices": [
+    {
+      "text": "Explore the beyonds with Star Voyage",
+      "next_scene": null,
+      "next_story": "star-voyage"
+    }
+  ]
+}

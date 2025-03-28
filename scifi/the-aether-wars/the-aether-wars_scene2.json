@@ -1,0 +1,213 @@
+{
+  "story_id": "the-aether-wars",
+  "scene_id": "scene2",
+  "background": "https://images.unsplash.com/photo-1538370965046-79c0d6907d47",
+  "chapters": [
+    {
+      "chapter_id": "ch21",
+      "text": "They’re taking forever. What if they’re hostile?",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch22",
+      "text": "Patience, Alex. I’ve got a lock on their signal now.",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch23",
+      "text": "Good. So what’s the verdict—friends or foes?",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch24",
+      "text": "They’re decloaking—looks like Aether Fleet patrol ships.",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch25",
+      "text": "Patrol ships? That’s a relief. What do they want?",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch26",
+      "text": "They’re hailing us back. ‘State your purpose,’ they say.",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch27",
+      "text": "Uh, exploration? What should I tell them?",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch28",
+      "text": "Stick with that. Say we’re independent scouts.",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch29",
+      "text": "Alright. ‘Independent scouts here, just exploring.’ Sent.",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch30",
+      "text": "They’re replying—‘Stand by for escort.’ Sounds official.",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch31",
+      "text": "Escort? To where? I don’t like being babysat.",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch32",
+      "text": "Probably their base. We’re in their territory now.",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch33",
+      "text": "Fantastic. Do we have a choice here?",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch34",
+      "text": "Not really. They’re locking onto our nav system.",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch35",
+      "text": "That’s unsettling. Can we break free if we need to?",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch36",
+      "text": "Tricky, but possible. Let’s see where this goes first.",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch37",
+      "text": "Fine. How long till we reach their base?",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch38",
+      "text": "ETA’s short—ten minutes. They’re moving fast.",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch39",
+      "text": "Guess we’re along for the ride. What’s next?",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch40",
+      "text": "We prep for docking. Could be a warm welcome—or not.",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    }
+  ],
+  "choices": [
+    {
+      "text": "Prepare to dock with the Aether Fleet base",
+      "next_scene": "scene3"
+    }
+  ]
+}

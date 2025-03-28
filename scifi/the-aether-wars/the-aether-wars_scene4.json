@@ -1,0 +1,213 @@
+{
+  "story_id": "the-aether-wars",
+  "scene_id": "scene4",
+  "background": "https://images.unsplash.com/photo-1554772279-8f584d1e9517",
+  "chapters": [
+    {
+      "chapter_id": "ch61",
+      "text": "This place is buzzing. Notice the guards trailing us?",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch62",
+      "text": "Yeah, subtle as a supernova. Let’s keep moving.",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch63",
+      "text": "What’s that over there? Looks like a war room.",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch64",
+      "text": "Good eye. Holo-maps are active—battle plans, maybe.",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch65",
+      "text": "Can we get closer without raising alarms?",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch66",
+      "text": "Casually, yes. Act like we’re just curious scouts.",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch67",
+      "text": "Got it. ‘Oh, cool tech!’—how’s that?",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch68",
+      "text": "Perfect. I’m picking up chatter—enemy fleet’s near.",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch69",
+      "text": "Enemy fleet? That’s not good for us, is it?",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch70",
+      "text": "Depends. If they attack, we’re stuck in the crossfire.",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch71",
+      "text": "Fantastic. Any chance we can slip out before that?",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch72",
+      "text": "Slim. They’ve got our ship locked down tight.",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch73",
+      "text": "So we’re sitting ducks? There’s got to be a way.",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch74",
+      "text": "Maybe. I’m hearing talk of a counterstrike—soon.",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch75",
+      "text": "Counterstrike? Could that be our opening?",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch76",
+      "text": "If we time it right, yeah. Chaos might cover us.",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch77",
+      "text": "I like chaos. How do we make it work?",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch78",
+      "text": "We wait for their move, then bolt to the ship.",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch79",
+      "text": "Risky, but I’m in. When’s this strike happening?",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch80",
+      "text": "Soon—alarms are starting. It’s go time, Alex.",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    }
+  ],
+  "choices": [
+    {
+      "text": "Make a break for the ship during the counterstrike",
+      "next_scene": "scene5"
+    }
+  ]
+}

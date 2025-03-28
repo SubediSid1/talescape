@@ -1,0 +1,30 @@
+[
+  {
+    "id": "fantasy",
+    "name": "Fantasy"
+  },
+  {
+    "id": "scifi",
+    "name": "Sci-Fi"
+  },
+  {
+    "id": "hot",
+    "name": "Hot"
+  },
+  {
+    "id": "mystery",
+    "name": "Mystery"
+  },
+  {
+    "id": "horror",
+    "name": "Horror"
+  },
+  {
+    "id": "romance",
+    "name": "Romance"
+  },
+  {
+    "id": "nonfiction",
+    "name": "Non-Fiction"
+  }
+]
