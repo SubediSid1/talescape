@@ -2,36 +2,43 @@
   {
     "id": "fantasy",
     "name": "Fantasy",
-    "ttl": 86400
+    "ttl": 86400,
+    "clearData": false
   },
   {
     "id": "scifi",
     "name": "Sci-Fi",
-    "ttl": 86400
+    "ttl": 86400,
+    "clearData": false
   },
   {
     "id": "hot",
     "name": "Hot",
-    "ttl": 86400
+    "ttl": 86400,
+    "clearData": true
   },
   {
     "id": "mystery",
     "name": "Mystery",
-    "ttl": 86400
+    "ttl": 86400,
+    "clearData": false
   },
   {
     "id": "horror",
     "name": "Horror",
-    "ttl": 86400
+    "ttl": 86400,
+    "clearData": false
   },
   {
     "id": "romance",
     "name": "Romance",
-    "ttl": 86400
+    "ttl": 86400,
+    "clearData": false
   },
   {
     "id": "nonfiction",
     "name": "Non-Fiction",
-    "ttl": 86400
+    "ttl": 86400,
+    "clearData": false
   }
 ]
