@@ -238,7 +238,7 @@
   ],
   "choices": [
     {
-      "text": "Night ends. Find 'Dirty Little Secret' next.",
+      "text": "Night ends... Find 'Dirty Little Secret' next.",
       "next_scene": null,
       "next_story": "dirty-little-secret"
     }
