@@ -1,0 +1,246 @@
+{
+  "story_id": "love-at-first-night",
+  "scene_id": "scene4",
+  "background": "https://images.unsplash.com/photo-1531902332906-55f3d7f5e831",
+  "chapters": [
+    {
+      "chapter_id": "ch73",
+      "text": "So, where do we go from here, Alex?",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch74",
+      "text": "Well, the night’s not over yet. Unless you’re tapping out?",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch75",
+      "text": "Not a chance. I just want to see what you’re planning.",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch76",
+      "text": "Let’s take a walk. I know a place.",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch77",
+      "text": "Bob follows Alex through the quiet streets, the city lights shimmering around them.",
+      "content_image": "https://images.unsplash.com/photo-1498654896293-37aacf113fd9",
+      "character": null,
+      "isUser": null
+    },
+    {
+      "chapter_id": "ch78",
+      "text": "This place… it’s peaceful. You come here often?",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch79",
+      "text": "Not with just anyone. But I had a feeling you’d appreciate it.",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch80",
+      "text": "Bob leans against the railing, looking at the cityscape stretching before them.",
+      "content_image": null,
+      "character": null,
+      "isUser": null
+    },
+    {
+      "chapter_id": "ch81",
+      "text": "I have to admit, this has been one hell of a night.",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch82",
+      "text": "And here I was thinking you’d be bored by now.",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch83",
+      "text": "Hardly. You keep surprising me.",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch84",
+      "text": "Alex turns to Bob, their faces just inches apart in the soft city glow.",
+      "content_image": null,
+      "character": null,
+      "isUser": null
+    },
+    {
+      "chapter_id": "ch85",
+      "text": "Maybe I just like keeping you on your toes.",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch86",
+      "text": "Bob smirks. \"And maybe I like that about you.\"",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch87",
+      "text": "The air between them is charged, unspoken words filling the silence.",
+      "content_image": null,
+      "character": null,
+      "isUser": null
+    },
+    {
+      "chapter_id": "ch88",
+      "text": "So, what now, Alex? Is this where we call it a night?",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch89",
+      "text": "That depends. Are you ready to say goodnight?",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch90",
+      "text": "Bob chuckles, shaking his head. \"Not even close.\"",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch91",
+      "text": "Then I guess we see where the night takes us.",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch92",
+      "text": "Bob watches Alex, his expression softer now, thoughtful.",
+      "content_image": null,
+      "character": null,
+      "isUser": null
+    },
+    {
+      "chapter_id": "ch93",
+      "text": "You know, I wasn’t expecting this when I met you tonight.",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch94",
+      "text": "Neither was I. But I’m not complaining.",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch95",
+      "text": "Bob smiles. \"Me neither.\"",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch96",
+      "text": "Alex lets out a small laugh, leaning on the railing beside Bob.",
+      "content_image": null,
+      "character": null,
+      "isUser": null
+    },
+    {
+      "chapter_id": "ch97",
+      "text": "Whatever happens after tonight, it was a night worth remembering.",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    }
+  ],
+  "choices": [
+    {
+      "text": "Night ends. Find 'Dirty Little Secret' next.",
+      "next_scene": null,
+      "next_story": "dirty-little-secret"
+    }
+  ]
+}

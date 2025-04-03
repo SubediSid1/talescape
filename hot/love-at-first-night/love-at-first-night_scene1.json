@@ -1,11 +1,11 @@
 {
-  "story_id": "flames-of-desire",
-  "scene_id": "scene4",
-  "background": "https://images.unsplash.com/photo-1475015473256-2b6f3b2f9c5e",
+  "story_id": "love-at-first-night",
+  "scene_id": "scene1",
+  "background": "https://images.unsplash.com/photo-1526772662000-3f88f10405ff",
   "chapters": [
     {
-      "chapter_id": "ch91",
-      "text": "Fresh air feels good. Still buzzing, Bob?",
+      "chapter_id": "ch1",
+      "text": "The city lights are dazzling tonight. Didn’t expect to run into you here, Bob.",
       "content_image": null,
       "character": {
         "name": "Alex",
@@ -14,8 +14,8 @@
       "isUser": true
     },
     {
-      "chapter_id": "ch92",
-      "text": "Oh, yeah. That breeze can’t douse this fire.",
+      "chapter_id": "ch2",
+      "text": "Fate works in mysterious ways, Alex. Or maybe you were looking for me?",
       "content_image": null,
       "character": {
         "name": "Bob",
@@ -24,8 +24,8 @@
       "isUser": false
     },
     {
-      "chapter_id": "ch93",
-      "text": "Good to know. Stars are out—romantic, huh?",
+      "chapter_id": "ch3",
+      "text": "Oh, confident, are we? Maybe I was. Or maybe it’s just coincidence.",
       "content_image": null,
       "character": {
         "name": "Alex",
@@ -34,8 +34,8 @@
       "isUser": true
     },
     {
-      "chapter_id": "ch94",
-      "text": "Perfect backdrop for us. You’re the real shine.",
+      "chapter_id": "ch4",
+      "text": "Either way, you’re here. And I have a feeling this night is about to get interesting.",
       "content_image": null,
       "character": {
         "name": "Bob",
@@ -44,8 +44,8 @@
       "isUser": false
     },
     {
-      "chapter_id": "ch95",
-      "text": "Flatterer. That club heat still lingering?",
+      "chapter_id": "ch5",
+      "text": "You always had a way with words, Bob. Where were you headed before this chance encounter?",
       "content_image": null,
       "character": {
         "name": "Alex",
@@ -54,8 +54,8 @@
       "isUser": true
     },
     {
-      "chapter_id": "ch96",
-      "text": "You bet. Cooling off’s overrated with you around.",
+      "chapter_id": "ch6",
+      "text": "Honestly? Nowhere special. But now, I think I found my destination.",
       "content_image": null,
       "character": {
         "name": "Bob",
@@ -64,8 +64,8 @@
       "isUser": false
     },
     {
-      "chapter_id": "ch97",
-      "text": "Same vibe here. Walk with me a bit?",
+      "chapter_id": "ch7",
+      "text": "Smooth. But if you’re staying, you owe me a drink.",
       "content_image": null,
       "character": {
         "name": "Alex",
@@ -74,8 +74,8 @@
       "isUser": true
     },
     {
-      "chapter_id": "ch98",
-      "text": "Thought you’d never ask. Side by side?",
+      "chapter_id": "ch8",
+      "text": "Only if you promise to tell me something interesting in return.",
       "content_image": null,
       "character": {
         "name": "Bob",
@@ -84,8 +84,8 @@
       "isUser": false
     },
     {
-      "chapter_id": "ch99",
-      "text": "Close as we can get. This night’s magic.",
+      "chapter_id": "ch9",
+      "text": "Deal. But I get to choose what’s interesting.",
       "content_image": null,
       "character": {
         "name": "Alex",
@@ -94,8 +94,8 @@
       "isUser": true
     },
     {
-      "chapter_id": "ch100",
-      "text": "All because of you. Where’s this path taking us?",
+      "chapter_id": "ch10",
+      "text": "Fair enough. Let’s grab that drink and see where the night takes us.",
       "content_image": null,
       "character": {
         "name": "Bob",
@@ -104,8 +104,8 @@
       "isUser": false
     },
     {
-      "chapter_id": "ch101",
-      "text": "Somewhere quiet, I hope. Just us and the stars.",
+      "chapter_id": "ch11",
+      "text": "The bar’s packed, but I think I see a free table in the corner.",
       "content_image": null,
       "character": {
         "name": "Alex",
@@ -114,8 +114,8 @@
       "isUser": true
     },
     {
-      "chapter_id": "ch102",
-      "text": "Sounds like paradise. You’ve got me hooked.",
+      "chapter_id": "ch12",
+      "text": "Lead the way. I’ll get the drinks. What’s your poison?",
       "content_image": null,
       "character": {
         "name": "Bob",
@@ -124,8 +124,8 @@
       "isUser": false
     },
     {
-      "chapter_id": "ch103",
-      "text": "Mutual feeling. That breeze feels teasing now.",
+      "chapter_id": "ch13",
+      "text": "Surprise me. But nothing too sweet—I’m not that easy to figure out.",
       "content_image": null,
       "character": {
         "name": "Alex",
@@ -134,8 +134,8 @@
       "isUser": true
     },
     {
-      "chapter_id": "ch104",
-      "text": "Like it’s flirting with us. Want to sit a sec?",
+      "chapter_id": "ch14",
+      "text": "Noted. A drink as mysterious as you coming right up.",
       "content_image": null,
       "character": {
         "name": "Bob",
@@ -144,8 +144,8 @@
       "isUser": false
     },
     {
-      "chapter_id": "ch105",
-      "text": "Yeah, over there. Still warm from earlier?",
+      "chapter_id": "ch15",
+      "text": "Let’s see if you live up to the challenge.",
       "content_image": null,
       "character": {
         "name": "Alex",
@@ -154,8 +154,8 @@
       "isUser": true
     },
     {
-      "chapter_id": "ch106",
-      "text": "Smoldering, thanks to you. This spot’s perfect.",
+      "chapter_id": "ch16",
+      "text": "A drink, a challenge, and good company? This might be my kind of night.",
       "content_image": null,
       "character": {
         "name": "Bob",
@@ -164,8 +164,8 @@
       "isUser": false
     },
     {
-      "chapter_id": "ch107",
-      "text": "Glad you think so. Night’s winding down, huh?",
+      "chapter_id": "ch17",
+      "text": "Don’t get ahead of yourself. We’ll see how the night goes.",
       "content_image": null,
       "character": {
         "name": "Alex",
@@ -174,8 +174,8 @@
       "isUser": true
     },
     {
-      "chapter_id": "ch108",
-      "text": "Maybe, but not us. Still got some spark left?",
+      "chapter_id": "ch18",
+      "text": "I like a challenge, Alex. Keeps things interesting.",
       "content_image": null,
       "character": {
         "name": "Bob",
@@ -184,8 +184,8 @@
       "isUser": false
     },
     {
-      "chapter_id": "ch109",
-      "text": "Plenty. How do we keep it burning?",
+      "chapter_id": "ch19",
+      "text": "Then you’re in luck. I don’t make things easy.",
       "content_image": null,
       "character": {
         "name": "Alex",
@@ -194,8 +194,8 @@
       "isUser": true
     },
     {
-      "chapter_id": "ch110",
-      "text": "Just stay close. That’s more than enough.",
+      "chapter_id": "ch20",
+      "text": "Now I’m really intrigued.",
       "content_image": null,
       "character": {
         "name": "Bob",
@@ -204,8 +204,8 @@
       "isUser": false
     },
     {
-      "chapter_id": "ch111",
-      "text": "Easy request. You’re still trouble, you know.",
+      "chapter_id": "ch21",
+      "text": "So, tell me something interesting. I’m curious what you have in mind.",
       "content_image": null,
       "character": {
         "name": "Alex",
@@ -214,8 +214,8 @@
       "isUser": true
     },
     {
-      "chapter_id": "ch112",
-      "text": "The best kind. You’re no saint either.",
+      "chapter_id": "ch22",
+      "text": "Something interesting? I’ll tell you about a place I’ve always wanted to visit. Maybe you’ll join me one day.",
       "content_image": null,
       "character": {
         "name": "Bob",
@@ -224,8 +224,8 @@
       "isUser": false
     },
     {
-      "chapter_id": "ch113",
-      "text": "Guilty as charged. This night’s one for the books.",
+      "chapter_id": "ch23",
+      "text": "That sounds intriguing. Where is this mysterious place?",
       "content_image": null,
       "character": {
         "name": "Alex",
@@ -234,8 +234,8 @@
       "isUser": true
     },
     {
-      "chapter_id": "ch114",
-      "text": "Top tier, no doubt. Ready for the finale?",
+      "chapter_id": "ch24",
+      "text": "It’s a secret for now. But maybe, if the night goes well, I’ll let you in on it.",
       "content_image": null,
       "character": {
         "name": "Bob",
@@ -244,71 +244,20 @@
       "isUser": false
     },
     {
-      "chapter_id": "ch115",
-      "text": "Oh, I’m curious. What’s your big finish?",
+      "chapter_id": "ch25",
+      "text": "I’m looking forward to finding out more, Bob. Let’s see where the night takes us.",
       "content_image": null,
       "character": {
         "name": "Alex",
         "image": "https://ix-marketing.imgix.net/focalpoint.png"
       },
       "isUser": true
-    },
-    {
-      "chapter_id": "ch116",
-      "text": "A quiet moment—us, stars, and a promise.",
-      "content_image": null,
-      "character": {
-        "name": "Bob",
-        "image": "https://ix-marketing.imgix.net/footer-image.png"
-      },
-      "isUser": false
-    },
-    {
-      "chapter_id": "ch117",
-      "text": "A promise? You’ve got my attention.",
-      "content_image": null,
-      "character": {
-        "name": "Alex",
-        "image": "https://ix-marketing.imgix.net/focalpoint.png"
-      },
-      "isUser": true
-    },
-    {
-      "chapter_id": "ch118",
-      "text": "To do this again. Night’s too good to end here.",
-      "content_image": null,
-      "character": {
-        "name": "Bob",
-        "image": "https://ix-marketing.imgix.net/footer-image.png"
-      },
-      "isUser": false
-    },
-    {
-      "chapter_id": "ch119",
-      "text": "Deal sealed. Here’s to more flames ahead.",
-      "content_image": null,
-      "character": {
-        "name": "Alex",
-        "image": "https://ix-marketing.imgix.net/focalpoint.png"
-      },
-      "isUser": true
-    },
-    {
-      "chapter_id": "ch120",
-      "text": "To more nights like this. You’re unforgettable.",
-      "content_image": null,
-      "character": {
-        "name": "Bob",
-        "image": "https://ix-marketing.imgix.net/footer-image.png"
-      },
-      "isUser": false
     }
   ],
   "choices": [
     {
-      "text": "End the night with a promise of more. Love at First Night.",
-      "next_scene": null,
-      "next_story": "love-at-first-night"
+      "text": "Flirt back and see where the night takes you",
+      "next_scene": "scene2"
     }
   ]
 }

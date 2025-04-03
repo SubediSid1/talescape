@@ -1,0 +1,238 @@
+{
+  "story_id": "love-at-first-night",
+  "scene_id": "scene3",
+  "background": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
+  "chapters": [
+    {
+      "chapter_id": "ch49",
+      "text": "Alright, moment of truth. Let's flip this coin and see where luck takes us.",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch50",
+      "text": "Heads—I win. Tails—you win. No take-backs, Bob.",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch51",
+      "text": "I never take back a bet. But I do believe in a little suspense.",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch52",
+      "text": "Then flip it already. Or are you stalling because you're afraid to lose?",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch53",
+      "text": "Alright, alright. Here goes nothing.",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch54",
+      "text": "The coin spins in the air, catching the dim bar light as it flips over and over before landing.",
+      "content_image": null,
+      "character": null,
+      "isUser": null
+    },
+    {
+      "chapter_id": "ch55",
+      "text": "Well, well… Looks like luck is on my side tonight.",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch56",
+      "text": "I'll admit, I wasn't expecting that. What happens now?",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch57",
+      "text": "Now, you owe me a dance. No complaints.",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch58",
+      "text": "A dance? I was expecting something far worse.",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch59",
+      "text": "Oh, trust me, Bob. The night is still young.",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch60",
+      "text": "Alex pulls Bob onto the dance floor, the music wrapping around them as they move together.",
+      "content_image": "https://images.unsplash.com/photo-1519764622347-3d4a274e0461",
+      "character": null,
+      "isUser": null
+    },
+    {
+      "chapter_id": "ch61",
+      "text": "I have to admit, you're not bad at this.",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch62",
+      "text": "Not bad? Please. I'm the best partner you've ever had.",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch63",
+      "text": "Bold words. But I like confidence.",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch64",
+      "text": "Then you must really like me by now.",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch65",
+      "text": "Bob smirks but doesn’t deny it. Instead, he spins Alex unexpectedly, bringing them closer together.",
+      "content_image": null,
+      "character": null,
+      "isUser": null
+    },
+    {
+      "chapter_id": "ch66",
+      "text": "Caught off guard? You should know by now, I always have a move up my sleeve.",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch67",
+      "text": "Alex meets his gaze, heart pounding a little faster. The game between them was shifting.",
+      "content_image": null,
+      "character": null,
+      "isUser": null
+    },
+    {
+      "chapter_id": "ch68",
+      "text": "You keep playing like this, Bob, and I might start thinking you're trouble.",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch69",
+      "text": "And would that be a bad thing?",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch70",
+      "text": "Alex doesn't answer right away, just smiles, letting the music fill the silence between them.",
+      "content_image": null,
+      "character": null,
+      "isUser": null
+    },
+    {
+      "chapter_id": "ch71",
+      "text": "Alright, you won the bet. What's next?",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch72",
+      "text": "That depends… are you afraid of what comes after this dance?",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    }
+  ],
+  "choices": [
+    {
+      "text": "Take the night to the next level and see where it leads.",
+      "next_scene": "scene4"
+    }
+  ]
+}
