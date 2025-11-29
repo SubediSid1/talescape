@@ -1,1 +1,45 @@
-
+{
+  "story_id": "echoes-of-the-void",
+  "scene_id": "scene4",
+  "background": "https://images.unsplash.com/photo-1506318137071-a8e063b4bec0",
+  "chapters": [
+    {
+      "chapter_id": "ch26",
+      "text": "My head—feels like it’s splitting open!",
+      "content_image": null,
+      "character": { "name": "Alex", "image": "https://ix-marketing.imgix.net/focalpoint.png" },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch27",
+      "text": "Transfer complete. You now carry the blueprints for a Void Lance—star-killer class.",
+      "content_image": null,
+      "character": { "name": "Bob", "image": "https://ix-marketing.imgix.net/footer-image.png" },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch28",
+      "text": "I can see how to build it… and I know exactly where that thing is going to emerge.",
+      "content_image": null,
+      "character": { "name": "Alex", "image": "https://ix-marketing.imgix.net/focalpoint.png" },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch29",
+      "text": "The station just gave us back full power—plus a jump drive we didn’t have before. We can be there in hours.",
+      "content_image": null,
+      "character": { "name": "Bob", "image": "https://ix-marketing.imgix.net/footer-image.png" },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch30",
+      "text": "Then let’s not keep the apocalypse waiting.",
+      "content_image": null,
+      "character": { "name": "Alex", "image": "https://ix-marketing.imgix.net/focalpoint.png" },
+      "isUser": true
+    }
+  ],
+  "choices": [
+    { "text": "Jump to the emergence point", "next_scene": "scene5" }
+  ]
+}
