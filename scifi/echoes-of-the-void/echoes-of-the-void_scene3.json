@@ -1,1 +1,66 @@
-
+{
+  "story_id": "echoes-of-the-void",
+  "scene_id": "scene3",
+  "background": "https://images.unsplash.com/photo-1534796636912-3b95b3ab5986",
+  "chapters": [
+    {
+      "chapter_id": "ch18",
+      "text": "This chamber… it’s alive. The walls are breathing.",
+      "content_image": null,
+      "character": { "name": "Alex", "image": "https://ix-marketing.imgix.net/focalpoint.png" },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch19",
+      "text": "Central pedestal just activated. Something wants to interface with us.",
+      "content_image": null,
+      "character": { "name": "Bob", "image": "https://ix-marketing.imgix.net/footer-image.png" },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch20",
+      "text": "I’m seeing memories that aren’t mine—stars dying, a war older than galaxies…",
+      "content_image": null,
+      "character": { "name": "Alex", "image": "https://ix-marketing.imgix.net/focalpoint.png" },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch21",
+      "text": "It’s the last archivist of a dead civilization. It’s been waiting millions of years… for someone to carry its warning.",
+      "content_image": null,
+      "character": { "name": "Bob", "image": "https://ix-marketing.imgix.net/footer-image.png" },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch22",
+      "text": "Warning about what?",
+      "content_image": null,
+      "character": { "name": "Alex", "image": "https://ix-marketing.imgix.net/focalpoint.png" },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch23",
+      "text": "Something’s coming back. The thing that killed them. And it just woke up because we tripped its beacon.",
+      "content_image": null,
+      "character": { "name": "Bob", "image": "https://ix-marketing.imgix.net/footer-image.png" },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch24",
+      "text": "You’re saying we just rang the dinner bell for a galaxy-eating horror?",
+      "content_image": null,
+      "character": { "name": "Alex", "image": "https://ix-marketing.imgix.net/focalpoint.png" },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch25",
+      "text": "Pretty much. The archivist is offering us the only weapon that ever hurt it… if we accept the knowledge.",
+      "content_image": null,
+      "character": { "name": "Bob", "image": "https://ix-marketing.imgix.net/footer-image.png" },
+      "isUser": false
+    }
+  ],
+  "choices": [
+    { "text": "Accept the ancient weapon-knowledge", "next_scene": "scene4" }
+  ]
+}
