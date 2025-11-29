@@ -1,1 +1,84 @@
-
+{
+  "story_id": "echoes-of-the-void",
+  "scene_id": "scene5",
+  "background": "https://images.unsplash.com/photo-1505506874110-6a7a69069a08",
+  "chapters": [
+    {
+      "chapter_id": "ch31",
+      "text": "Reality’s tearing open. That thing is bigger than a moon… and it’s looking right at us.",
+      "content_image": null,
+      "character": { "name": "Alex", "image": "https://ix-marketing.imgix.net/focalpoint.png" },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch32",
+      "text": "Void Lance construction at 94%. Thirty seconds.",
+      "content_image": null,
+      "character": { "name": "Bob", "image": "https://ix-marketing.imgix.net/footer-image.png" },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch33",
+      "text": "It’s screaming inside my skull—make it stop!",
+      "content_image": null,
+      "character": { "name": "Alex", "image": "https://ix-marketing.imgix.net/focalpoint.png" },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch34",
+      "text": "Weapon hot. Target locked on its core. Your call, Captain.",
+      "content_image": null,
+      "character": { "name": "Bob", "image": "https://ix-marketing.imgix.net/footer-image.png" },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch35",
+      "text": "Fire. End this nightmare.",
+      "content_image": null,
+      "character": { "name": "Alex", "image": "https://ix-marketing.imgix.net/focalpoint.png" },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch36",
+      "text": "Lance away… direct hit! It’s collapsing—folding in on itself!",
+      "content_image": null,
+      "character": { "name": "Bob", "image": "https://ix-marketing.imgix.net/footer-image.png" },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch37",
+      "text": "We did it… I think we actually did it.",
+      "content_image": null,
+      "character": { "name": "Alex", "image": "https://ix-marketing.imgix.net/focalpoint.png" },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch38",
+      "text": "The archivist’s voice, one last time: ‘Thank you, echoes of the void. Now live.’",
+      "content_image": null,
+      "character": { "name": "Bob", "image": "https://ix-marketing.imgix.net/footer-image.png" },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch39",
+      "text": "Plot a course for home, Bob. I need a very long drink.",
+      "content_image": null,
+      "character": { "name": "Alex", "image": "https://ix-marketing.imgix.net/focalpoint.png" },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch40",
+      "text": "Already done. Welcome back to the land of the living, hero.",
+      "content_image": null,
+      "character": { "name": "Bob", "image": "https://ix-marketing.imgix.net/footer-image.png" },
+      "isUser": false
+    }
+  ],
+  "choices": [
+    {
+      "text": "Return to known space as the saviors of the galaxy",
+      "next_scene": null,
+      "next_story": null
+    }
+  ]
+}
