@@ -7,91 +7,130 @@
       "chapter_id": "ch49",
       "text": "The station just went completely silent. No more alarms. No more shaking.",
       "content_image": null,
-      "character": { "name": "Bob", "image": "https://ix-marketing.imgix.net/footer-image.png" },
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
       "isUser": false
     },
     {
       "chapter_id": "ch50",
       "text": "Fracture readings… zero. It’s actually closed. You did it, Alex.",
       "content_image": null,
-      "character": { "name": "Bob", "image": "https://ix-marketing.imgix.net/footer-image.png" },
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
       "isUser": false
     },
     {
       "chapter_id": "ch51",
       "text": "Long-range comm crackles to life — it’s you, barely audible through the static…",
       "content_image": null,
-      "character": null,
+      "character": {
+        "name": "Narrator",
+        "image": null
+      },
       "isUser": null
     },
     {
       "chapter_id": "ch52",
       "text": "Hey Bob… tell them the stars are safe now.",
       "content_image": null,
-      "character": { "name": "Alex", "image": "https://ix-marketing.imgix.net/focalpoint.png" },
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
       "isUser": true
     },
     {
       "chapter_id": "ch53",
       "text": "Your voice… one last time. I’m not letting go of this recording.",
       "content_image": null,
-      "character": { "name": "Bob", "image": "https://ix-marketing.imgix.net/footer-image.png" },
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
       "isUser": false
     },
     {
       "chapter_id": "ch54",
       "text": "Sensors just lit up — a brand-new stable gateway formed exactly where the fracture was.",
       "content_image": null,
-      "character": { "name": "Bob", "image": "https://ix-marketing.imgix.net/footer-image.png" },
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
       "isUser": false
     },
     {
       "chapter_id": "ch55",
       "text": "It’s carrying your personal encryption key. You built us a door home… with the last of your strength.",
       "content_image": null,
-      "character": null,
+      "character": {
+        "name": "Narrator",
+        "image": null
+      },
       "isUser": null
     },
     {
       "chapter_id": "ch56",
       "text": "Dr. Voss is conscious again. She says the gate will stay open as long as you’re still holding the patch from the other side.",
       "content_image": null,
-      "character": { "name": "Bob", "image": "https://ix-marketing.imgix.net/footer-image.png" },
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
       "isUser": false
     },
     {
       "chapter_id": "ch57",
       "text": "So you’re out there… somewhere between realities… keeping the universe together for the rest of us.",
       "content_image": null,
-      "character": null,
+      "character": {
+        "name": "Narrator",
+        "image": null
+      },
       "isUser": null
     },
     {
       "chapter_id": "ch58",
       "text": "Course laid in through Captain Alex’s Gate.",
       "content_image": null,
-      "character": { "name": "Bob", "image": "https://ix-marketing.imgix.net/footer-image.png" },
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
       "isUser": false
     },
     {
       "chapter_id": "ch59",
       "text": "You always hated goodbyes… so I won’t say it.",
       "content_image": null,
-      "character": { "name": "Bob", "image": "https://ix-marketing.imgix.net/footer-image.png" },
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
       "isUser": false
     },
     {
       "chapter_id": "ch60",
       "text": "Engines hot. Jumping in five… four…",
       "content_image": null,
-      "character": { "name": "Bob", "image": "https://ix-marketing.imgix.net/footer-image.png" },
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
       "isUser": false
     },
     {
       "chapter_id": "ch61",
       "text": "See you in the stars, partner.",
       "content_image": null,
-      "character": { "name": "Bob", "image": "https://ix-marketing.imgix.net/footer-image.png" },
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
       "isUser": false
     }
   ],
