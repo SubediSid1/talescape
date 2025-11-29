@@ -1,1 +1,80 @@
-
+{
+  "story_id": "echoes-of-the-void",
+  "scene_id": "scene1",
+  "background": "https://images.unsplash.com/photo-1464802688315-7fa6235125f6",
+  "chapters": [
+    {
+      "chapter_id": "ch1",
+      "text": "The engines just cut out completely. Everything’s dead, Bob. What the hell happened?",
+      "content_image": null,
+      "character": { "name": "Alex", "image": "https://ix-marketing.imgix.net/focalpoint.png" },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch2",
+      "text": "We hit some kind of dampening field. All power’s being drained faster than I can reroute it.",
+      "content_image": null,
+      "character": { "name": "Bob", "image": "https://ix-marketing.imgix.net/footer-image.png" },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch3",
+      "text": "Great. Any bright ideas before we become space popsicles?",
+      "content_image": null,
+      "character": { "name": "Alex", "image": "https://ix-marketing.imgix.net/focalpoint.png" },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch4",
+      "text": "I’m detecting an ancient structure ahead. It’s the source of the field… and the only thing with power for light-years.",
+      "content_image": null,
+      "character": { "name": "Bob", "image": "https://ix-marketing.imgix.net/footer-image.png" },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch5",
+      "text": "So we either drift forever or check out the creepy alien ruin that’s eating our energy. Fun choices.",
+      "content_image": null,
+      "character": { "name": "Alex", "image": "https://ix-marketing.imgix.net/focalpoint.png" },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch6",
+      "text": "Suit thrusters still have thirty minutes of juice. We can reach it before total blackout.",
+      "content_image": null,
+      "character": { "name": "Bob", "image": "https://ix-marketing.imgix.net/footer-image.png" },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch7",
+      "text": "Then let’s move before I change my mind.",
+      "content_image": null,
+      "character": { "name": "Alex", "image": "https://ix-marketing.imgix.net/focalpoint.png" },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch8",
+      "text": "EVA in three… two… one. Pushing off now.",
+      "content_image": null,
+      "character": { "name": "Bob", "image": "https://ix-marketing.imgix.net/footer-image.png" },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch9",
+      "text": "This thing is massive. Look at those glyphs—they’re glowing.",
+      "content_image": null,
+      "character": { "name": "Alex", "image": "https://ix-marketing.imgix.net/focalpoint.png" },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch10",
+      "text": "And getting brighter the closer we get. Whatever’s inside knows we’re coming.",
+      "content_image": null,
+      "character": { "name": "Bob", "image": "https://ix-marketing.imgix.net/footer-image.png" },
+      "isUser": false
+    }
+  ],
+  "choices": [
+    { "text": "Enter the ancient alien structure", "next_scene": "scene2" }
+  ]
+}
