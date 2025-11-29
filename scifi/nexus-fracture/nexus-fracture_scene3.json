@@ -1,0 +1,123 @@
+{
+  "story_id": "nexus-fracture",
+  "scene_id": "scene3",
+  "background": "https://images.unsplash.com/photo-1534796636912-3b95b3ab5986",
+  "chapters": [
+    {
+      "chapter_id": "ch25",
+      "text": "A woman’s wired into the central rig—neural crown, blood on the console. Dr. Mara Voss?",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch26",
+      "text": "You’re… real? Not another echo?",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch27",
+      "text": "I’m the last one. Everyone else phased out days ago.",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch28",
+      "text": "If I disconnect, the fracture swallows half the sector in minutes.",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch29",
+      "text": "How long can you keep this up?",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch30",
+      "text": "Hours? Maybe less. My brain is cooking.",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch31",
+      "text": "There’s a second crown. One of you has to take my place… permanently.",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch32",
+      "text": "You’re asking one of us to become a living patch for reality.",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch33",
+      "text": "It’s the only way. I’m sorry.",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch34",
+      "text": "Give us a minute.",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch35",
+      "text": "You don’t have a minute. Decide.",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    }
+  ],
+  "choices": [
+    {
+      "text": "Choose who stays behind forever",
+      "next_scene": "scene4"
+    }
+  ]
+}
