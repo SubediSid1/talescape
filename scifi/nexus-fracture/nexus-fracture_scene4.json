@@ -1,0 +1,143 @@
+{
+  "story_id": "nexus-fracture",
+  "scene_id": "scene4",
+  "background": "https://images.unsplash.com/photo-1516841273335-e39b37888115",
+  "chapters": [
+    {
+      "chapter_id": "ch36",
+      "text": "I’ll do it. Get back to the ship, Bob.",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch37",
+      "text": "Alex—no. We find another way!",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch38",
+      "text": "There isn’t one. Tell everyone I finally found a job with lifetime employment.",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch39",
+      "text": "Don’t make me leave you.",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch40",
+      "text": "You have to. Crown’s linking… here it comes.",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch41",
+      "text": "Neural sync at 37%… 58%… pain levels critical.",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch42",
+      "text": "I can feel the fracture trying to pull everything apart… I’m holding it.",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch43",
+      "text": "Sync complete. Containment stable. Dr. Voss is disconnecting—she’s free.",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch44",
+      "text": "Get her out of here, Bob. That’s an order.",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch45",
+      "text": "I’m not abandoning you!",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch46",
+      "text": "Close the blast door. Live, damn it. That’s what I’m doing this for.",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch47",
+      "text": "…Door sealing in three… two…",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch48",
+      "text": "Goodbye, partner.",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    }
+  ],
+  "choices": [
+    {
+      "text": "Watch the door seal forever",
+      "next_scene": "scene5"
+    }
+  ]
+}
