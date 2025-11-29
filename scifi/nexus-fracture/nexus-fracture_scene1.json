@@ -1,0 +1,133 @@
+{
+  "story_id": "nexus-fracture",
+  "scene_id": "scene1",
+  "background": "https://images.unsplash.com/photo-1451187580459-43490279c0fa",
+  "chapters": [
+    {
+      "chapter_id": "ch1",
+      "text": "Red alerts everywhere! Bob, what just ripped us out of hyperspace?",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch2",
+      "text": "We slammed into a Nexus Fracture—an illegal quantum tear. Space-time is literally fracturing around the ship.",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch3",
+      "text": "Translation: we’re about to be turned into cosmic confetti?",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch4",
+      "text": "Pretty much. Hull integrity dropping 8% per minute. We have maybe twelve minutes.",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch5",
+      "text": "Great pep talk. Any good news?",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch6",
+      "text": "One derelict station directly ahead—emitting a containment pulse. Someone inside is holding the fracture from swallowing everything.",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch7",
+      "text": "Then that’s our only lifeline. Hard dock—now!",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch8",
+      "text": "Docking clamps firing… contact in five… four…",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch9",
+      "text": "We’re in. Airlock cycling. Place is shaking like it’s about to tear itself apart.",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch10",
+      "text": "Gravity fluctuating, lights strobing red. Core lab is 200 meters spin-ward. We have to move.",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch11",
+      "text": "Copy that. Sidearms hot. Let’s go meet our savior.",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch12",
+      "text": "Or the mad scientist who caused this. Either way, we’re out of time.",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    }
+  ],
+  "choices": [
+    {
+      "text": "Race through the collapsing station to the core lab",
+      "next_scene": "scene2"
+    }
+  ]
+}
