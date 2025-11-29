@@ -16,5 +16,14 @@
     "description": "A thrilling battle for control in the cosmos.",
     "category": "Sci-Fi",
     "category_id": "scifi"
+  },
+  {
+    "id": "echoes-of-the-void",
+    "title": "Echoes of the Void",
+    "cover_image": "https://images.unsplash.com/photo-1506318137071-a8e063b4bec0",
+    "total_scenes": 5,
+    "description": "Awakened an ancient horror to save the galaxy — now finish what the dead began.",
+    "category": "Sci-Fi",
+    "category_id": "scifi"
   }
 ]
