@@ -1,1 +1,59 @@
-
+{
+  "story_id": "echoes-of-the-void",
+  "scene_id": "scene2",
+  "background": "https://images.unsplash.com/photo-1518709268805-7ec8fb1cb1d5",
+  "chapters": [
+    {
+      "chapter_id": "ch11",
+      "text": "The airlock just… opened by itself. That normal for thousand-year-old ruins?",
+      "content_image": null,
+      "character": { "name": "Alex", "image": "https://ix-marketing.imgix.net/focalpoint.png" },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch12",
+      "text": "Not even slightly. Gravity and breathable air just came online too. Something’s welcoming us.",
+      "content_image": null,
+      "character": { "name": "Bob", "image": "https://ix-marketing.imgix.net/footer-image.png" },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch13",
+      "text": "Or herding us. Keep your hand on that sidearm.",
+      "content_image": null,
+      "character": { "name": "Alex", "image": "https://ix-marketing.imgix.net/focalpoint.png" },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch14",
+      "text": "Corridor’s shifting—walls are moving like liquid metal. Stay close.",
+      "content_image": null,
+      "character": { "name": "Bob", "image": "https://ix-marketing.imgix.net/footer-image.png" },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch15",
+      "text": "I’m getting a voice in my head… not words, just feelings. Curiosity. Urgency.",
+      "content_image": null,
+      "character": { "name": "Alex", "image": "https://ix-marketing.imgix.net/focalpoint.png" },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch16",
+      "text": "Same here. It wants us deeper inside. I don’t think we have a choice—the way back just sealed.",
+      "content_image": null,
+      "character": { "name": "Bob", "image": "https://ix-marketing.imgix.net/footer-image.png" },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch17",
+      "text": "Fantastic. Lead the way, tour guide.",
+      "content_image": null,
+      "character": { "name": "Alex", "image": "https://ix-marketing.imgix.net/focalpoint.png" },
+      "isUser": true
+    }
+  ],
+  "choices": [
+    { "text": "Follow the psychic pull deeper", "next_scene": "scene3" }
+  ]
+}
