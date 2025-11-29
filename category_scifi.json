@@ -25,5 +25,14 @@
     "description": "Awakened an ancient horror to save the galaxy — now finish what the dead began.",
     "category": "Sci-Fi",
     "category_id": "scifi"
+  },
+  {
+    "id": "nexus-fracture",
+    "title": "Nexus Fracture",
+    "cover_image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa",
+    "total_scenes": 5,
+    "description": "Reality is tearing itself apart. Only one of you can stay behind forever to hold the universe together.",
+    "category": "Sci-Fi",
+    "category_id": "scifi"
   }
 ]
