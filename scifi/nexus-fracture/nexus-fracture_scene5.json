@@ -1,0 +1,114 @@
+{
+  "story_id": "nexus-fracture",
+  "scene_id": "scene5",
+  "background": "https://images.unsplash.com/photo-1505506874110-6a7a69069a08",
+  "chapters": [
+    {
+      "chapter_id": "ch49",
+      "text": "Station’s gone quiet. The fracture… it’s closed.",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch50",
+      "text": "Long-range comm crackles—your voice, faint: “Hey Bob… tell them the stars are safe now.”",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch51",
+      "text": "A new stable gateway just formed—coordinates locked with your personal signature.",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch52",
+      "text": "You left us a way home. Typical Alex—always thinking ahead.",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch53",
+      "text": "Dr. Voss is awake. She says the gate will stay open as long as you hold the patch.",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch54",
+      "text": "So you’re out there… somewhere between realities, keeping the door open for the rest of us.",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch55",
+      "text": "Plotting course through Captain Alex’s Gate.",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch56",
+      "text": "You always did hate goodbyes.",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch57",
+      "text": "Engines hot. Jumping in three… two…",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch58",
+      "text": "See you on the other side, old friend.",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    }
+  ],
+  "choices": [
+    {
+      "text": "Fly home through the gate you paid for with eternity",
+      "next_scene": null,
+      "next_story": null
+    }
+  ]
+}
