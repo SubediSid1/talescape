@@ -1,0 +1,133 @@
+{
+  "story_id": "nexus-fracture",
+  "scene_id": "scene2",
+  "background": "https://images.unsplash.com/photo-1502134245197-025cf2d5e04f",
+  "chapters": [
+    {
+      "chapter_id": "ch13",
+      "text": "The corridor just… duplicated itself. Two identical hallways side by side.",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch14",
+      "text": "Timeline bleed. Stay in the prime corridor—touch the echo and you’ll overwrite yourself.",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch15",
+      "text": "There’s a version of me up ahead—walking backward and screaming silently.",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch16",
+      "text": "Don’t look at it. Eyes forward. 150 meters to the lab.",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch17",
+      "text": "Echo-Alex just reached for me. Its hand went right through my chest.",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch18",
+      "text": "Keep moving! The fracture is widening—bulkheads are vanishing!",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch19",
+      "text": "I hear whispering in languages that don’t exist yet.",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch20",
+      "text": "Containment door ahead—locked. I’m overriding now.",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch21",
+      "text": "Hurry! The floor behind us just turned into starfield!",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch22",
+      "text": "Door’s open! Inside—now!",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    },
+    {
+      "chapter_id": "ch23",
+      "text": "Sealing it behind us. That was too close.",
+      "content_image": null,
+      "character": {
+        "name": "Alex",
+        "image": "https://ix-marketing.imgix.net/focalpoint.png"
+      },
+      "isUser": true
+    },
+    {
+      "chapter_id": "ch24",
+      "text": "We’re in the core lab. And we’re not alone.",
+      "content_image": null,
+      "character": {
+        "name": "Bob",
+        "image": "https://ix-marketing.imgix.net/footer-image.png"
+      },
+      "isUser": false
+    }
+  ],
+  "choices": [
+    {
+      "text": "Confront the scientist holding reality together",
+      "next_scene": "scene3"
+    }
+  ]
+}
